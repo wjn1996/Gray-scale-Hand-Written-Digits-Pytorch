@@ -78,5 +78,7 @@
 **参考文献**
 
 [1]Simonyan K, Zisserman A. VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION[C]. computer vision and pattern recognition, 2014.
+
 [2]He K, Zhang X, Ren S, et al. Deep Residual Learning for Image Recognition[C]. computer vision and pattern recognition, 2016: 770-778.
+
 [3]张黎;刘争鸣;唐军;;基于BP神经网络的手写数字识别方法的实现[J];自动化与仪器仪表;2015年06期
